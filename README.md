@@ -5,7 +5,7 @@
 - : 🎮 Im interested in Machine Learning, Artificial Inteligence, and Game Development
 - : 🎼/🏭 I Enjoy Playing Rythm Game & Base Building/Automation Game
 - : Future Artificial Inteligence Engineer
-- : Follow my Instagram or connect with me at Linkedin
+- : Connect with me at Linkedin or follow my Instagram here
 <div class='hmu' align='center'>
         <a href="https://www.linkedin.com/in/dimas-st/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
