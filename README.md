@@ -3,7 +3,7 @@
 - : 💻 I am a Computer Science Student
 - : 📖 Currently Learning in Universitas Gadjah Mada
 - : 🎮 Im interested in Machine Learning, Artificial Inteligence, and Game Development
-- : 🎼 I Enjoy Playing Rythm
+- : 🎼/🏭 I Enjoy Playing Rythm Game & Base Building/Automation Game
 - : Future Artificial Inteligence Engineer
 - : Follow my Instagram or connect with me at Linkedin
 <div class='hmu' align='center'>
