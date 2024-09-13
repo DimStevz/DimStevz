@@ -14,3 +14,5 @@
         <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
  </div>
+## My Motivation For Learning Artificial Intelligence
+![cbclstr](/cubecluster.png)
