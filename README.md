@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300"/>
-</div>
----
 ## 👋 Hello there!, My Name is Dimas Stevano Ethanuel
 ### Here are some things about me 😋
 - : 💻 I am a Computer Science Student
