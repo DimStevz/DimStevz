@@ -12,4 +12,4 @@
 The Cube Cluster concept first appeared in the Sword Art Online: Alicization animated series. Watching it for the first time sparked something deep within me. The idea of creating an "artificial soul"—or in more practical terms, an AI capable to think and feel like a human—became a passion of mine. I'm dedicated to exploring the possibilities of advanced AI, striving to turn this vision into a reality.
 ### NOTHING IS IMPOSIBLE AS LONG I KEEP ON TRYING
 ## My Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DimStevz&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DimStevz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
