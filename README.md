@@ -1,4 +1,4 @@
-## 👋 Hello there!, My Name is Dimas Stevano Ethanuel
+## Hello there!, My Name is Dimas Stevano Ethanuel
 ### Here are some things about me 😋
 - : 💻 I am a Computer Science Student
 - : 📖 Currently Learning in Universitas Gadjah Mada
